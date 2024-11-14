@@ -1,2 +1,2 @@
-@openzeppelin/contracts/=node_modules/@openzeppelin/contracts/
-forge-std/=node_modules/forge-std/
+chainlink/=lib/chainlink-brownie-contracts/contracts/src/
+@chainlink/=lib/chainlink-brownie-contracts/contracts/src/
